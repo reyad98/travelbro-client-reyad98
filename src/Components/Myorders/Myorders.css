@@ -1,0 +1,18 @@
+.text-col{
+    
+    background-color: rgb(230, 62, 165);
+    color: rgb(10, 10, 10);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    
+}
+.btn-col{
+    background-color: rgb(42, 22, 68);
+    padding:10px;
+    width: 150px;
+    border-style: none;
+    cursor: pointer;
+    border-radius: 20px;
+    color: white;
+}

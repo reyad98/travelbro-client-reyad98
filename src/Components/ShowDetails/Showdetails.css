@@ -1,0 +1,24 @@
+.buttn{
+    background-color: black;
+    padding:10px;
+    width: 150px;
+    border-style: none;
+    cursor: pointer;
+    border-radius: 20px;
+    color: white;
+}
+.buttn:hover{
+    background-color: #f52b5a;
+    transition: 0.5s;
+}
+.crdcol{
+    background-color: rgb(99, 97, 98);
+    color: white;
+}
+.details{
+    margin: 40px;
+}
+img{
+   width: 50%;
+}
+

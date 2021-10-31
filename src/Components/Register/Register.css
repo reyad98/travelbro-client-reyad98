@@ -1,0 +1,26 @@
+.regi-from{
+    margin: 10px;
+}
+.form{
+    margin: 5px;
+}
+.form-regi{
+
+    margin: 10px;
+    border-style: none;
+    border-radius: 5px;
+    width: 140px;
+    height: 40px;
+    background-color: rgb(255, 85, 122);
+}
+.google-btnn{
+    margin: 10px;
+    background-color:#30a1ec;
+    padding:10px;
+    width: 150px;
+    border-style: none;
+    cursor: pointer;
+    border-radius: 30px;
+    color: rgb(20, 19, 19);
+    font-size: larger;
+}

@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Special Doctor",
+        "duration": "We have some sepecial doctor.The are highly dedicated about your service",
+        "img": "https://media.istockphoto.com/photos/doctor-checking-notes-picture-id486265345?k=20&m=486265345&s=612x612&w=0&h=A6w1R-GecAPh4HmTfjH4lJiqTdmrf0fXYJmoVPpjVXk="
+    },
+    {
+        "name": "Leg injury",
+        "duration": "We have many leg specialist.They are dedicated about your service",
+        "img": "https://media.istockphoto.com/photos/cancer-patient-woman-wearing-head-scarf-after-chemotherapy-consulting-picture-id1296310395?k=20&m=1296310395&s=612x612&w=0&h=vPecwW_iwi1xLeCYjFxb7XQK0Jtj5SvRcw-VS4kxuuM="
+    },
+    {
+        "name": "Special ICU",
+        "duration": "For imergency case we have 40 icu bed.For Covid patient imergency",
+        "img": "https://media.istockphoto.com/photos/blurred-image-of-a-man-patient-sleeping-in-hospital-bed-picture-id1030345288?k=20&m=1030345288&s=612x612&w=0&h=ik1TRo3Evcliuvpe1vn_8kBnxWwf0NWrvXbEOvc4iH0="
+    },
+    {
+        "name": "Health Care",
+        "duration": "Some special patient need high level care.We provide them in a good price",
+        "img": "https://media.istockphoto.com/photos/elderly-woman-sick-in-hospital-with-her-daughter-picture-id1262973066?k=20&m=1262973066&s=612x612&w=0&h=cgPLj429fVPr9m7uZcuCTQW6e0S5Nm45irluHtogLWQ="
+    },
+    {
+        "name": "Digital Lab",
+        "duration": "We have digital lab facalities for your care. Visit here for more",
+        "img": "https://images.unsplash.com/photo-1551884170-09fb70a3a2ed?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGhvc3BpdGFsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60"
+    },
+    {
+        "name": "Operation Theater",
+        "duration": "We have high pasonate operation theater. Visit Our sepecial doctor.",
+        "img": "https://images.unsplash.com/photo-1504439468489-c8920d796a29?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGhvc3BpdGFsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60"
+    }
+    
+]

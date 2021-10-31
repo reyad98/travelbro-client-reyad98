@@ -1,0 +1,18 @@
+.buttn{
+    background-color:#f7345e;
+    padding:10px;
+    width: 150px;
+    border-style: none;
+    cursor: pointer;
+    border-radius: 20px;
+    color: white;
+}
+.buttn:hover{
+    background-color: #1c0950;
+    transition: 0.5s;
+}
+.crdcol{
+    background-color: #fcd8e1;
+    color: #1c0950;
+}
+

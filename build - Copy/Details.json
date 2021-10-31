@@ -1,0 +1,33 @@
+[
+{
+    "name": "Special Doctor",
+    "duration": "We have some sepecial doctor.The are highly dedicated about your service.A specialist physician is a doctor who has completed advanced education and training in a specific field of medicine.Your copay or coinsurance will likely be higher when you see specialists than when you see primary care physicians.Aug",
+    "img": "https://media.istockphoto.com/photos/doctor-checking-notes-picture-id486265345?k=20&m=486265345&s=612x612&w=0&h=A6w1R-GecAPh4HmTfjH4lJiqTdmrf0fXYJmoVPpjVXk="
+},
+{
+    "name": "Leg injury",
+    "duration": "We have many leg specialist.They are dedicated about your service.Treatment for a leg injury may include rest, ice, elevation, and other first aid measures (such as the application of a brace, splint, or cast), or Physiotherapy. Some leg injuries are treated with medicine or surgery, especially if a bone is broken.",
+    "img": "https://media.istockphoto.com/photos/cancer-patient-woman-wearing-head-scarf-after-chemotherapy-consulting-picture-id1296310395?k=20&m=1296310395&s=612x612&w=0&h=vPecwW_iwi1xLeCYjFxb7XQK0Jtj5SvRcw-VS4kxuuM="
+},
+{
+    "name": "Special ICU",
+    "duration": "For imergency case we have 40 icu bed.For Covid patient imergency.Intensive care units cater to patients with severe or life-threatening illnesses and injuries, which require constant care, close supervision from life support equipment and functions. They are staffed by highly trained physicians, nurses and respiratory therapists who specialize in caring for critically ill patients.",
+    "img": "https://media.istockphoto.com/photos/blurred-image-of-a-man-patient-sleeping-in-hospital-bed-picture-id1030345288?k=20&m=1030345288&s=612x612&w=0&h=ik1TRo3Evcliuvpe1vn_8kBnxWwf0NWrvXbEOvc4iH0="
+},
+{
+    "name": "Health Care",
+    "duration": "Some special patient need high level care.We provide them in a good price.Health care (also health-care or healthcare) is the maintenance or improvement of health via the prevention, diagnosis, treatment, recovery, or cure of disease, illness, injury, and other physical and mental impairments in people. Health care is delivered by health professionals and allied health fields",
+    "img": "https://media.istockphoto.com/photos/elderly-woman-sick-in-hospital-with-her-daughter-picture-id1262973066?k=20&m=1262973066&s=612x612&w=0&h=cgPLj429fVPr9m7uZcuCTQW6e0S5Nm45irluHtogLWQ="
+},
+{
+    "name": "Digital Lab",
+    "duration": "We have digital lab facalities for your care. Visit here for more.DigitalLab develop, manufacture and support a wide range of software products for computing devices. Our aim is not only produce quality software but also support our valued customer according to their demand.",
+    "img": "https://images.unsplash.com/photo-1551884170-09fb70a3a2ed?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGhvc3BpdGFsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60"
+},
+{
+    "name": "Operation Theater",
+    "duration": "We have high pasonate operation theater. Visit Our sepecial doctor.Operating rooms are spacious, in a cleanroom, and well-lit, typically with overhead surgical lights, and may have though windows are becoming more prevalent in newly built theatres to provide clinical teams with natural light, and feature controlled temperature and humidity",
+    "img": "https://images.unsplash.com/photo-1504439468489-c8920d796a29?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGhvc3BpdGFsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60"
+}
+
+]

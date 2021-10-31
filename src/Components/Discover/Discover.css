@@ -1,0 +1,32 @@
+.facebook{
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(161, 109, 245);
+}
+.youtube{
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(112, 180, 248);
+}
+.mail{
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(60, 218, 178);
+}
+.buttnn{
+    background-color:rgb(14, 32, 41);
+    padding:10px;
+    width: 150px;
+    border-style: none;
+    cursor: pointer;
+    border-radius: 20px;
+    color: white;
+}
+.buttnn:hover{
+    background-color:#f73b64;
+    transition: 0.5s;
+    color: white;
+}
