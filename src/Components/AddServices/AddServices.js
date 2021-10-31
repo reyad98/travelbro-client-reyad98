@@ -6,7 +6,7 @@ const AddServices = () => {
     const { register, handleSubmit,reset } = useForm();
     const onSubmit = data =>{ 
         console.log(data);
-        axios.post('http://localhost:8000/services',data)
+        axios.post('https://creepy-vault-20977.herokuapp.com/services',data)
         .then(res =>{
             
            if(res.data.insertedId){

@@ -6,7 +6,7 @@ const Myorders = () => {
     const [service,setService]= useState({});
     //   console.log(serviceId);
     useEffect(()=>{
-        fetch(`http://localhost:8000/services/${serviceId}`)
+        fetch(`https://creepy-vault-20977.herokuapp.com/services/${serviceId}`)
         .then(res =>res.json())
         .then(data => setService(data));
     },[])

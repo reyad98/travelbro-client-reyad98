@@ -7,7 +7,7 @@ const Services = () => {
     const [news,setNews] = useState([])
   //console.log(news);
     useEffect(()=>{
-        fetch('http://localhost:8000/services')
+        fetch('https://creepy-vault-20977.herokuapp.com/services')
         .then(res=>res.json())
         .then(data =>setNews(data))
     },[])

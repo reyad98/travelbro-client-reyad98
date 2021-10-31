@@ -10,7 +10,7 @@ To travel from one place to another for different purposes is generally called t
 
 
 ### `Purpose`
-t is a part of education. Our education and book knowledge remain imperfect without travelling. We can learn many things from travelling. It teaches us to trade and commerce, language, sociology, customs, culture, history, geography and so on. Therefore, the educative value of travelling beggars description. Besides this, there are some special benefits of travelling. If a man stays in one place for a long time, he becomes monotonous. 
+It is a part of education. Our education and book knowledge remain imperfect without travelling. We can learn many things from travelling. It teaches us to trade and commerce, language, sociology, customs, culture, history, geography and so on. Therefore, the educative value of travelling beggars description. Besides this, there are some special benefits of travelling. If a man stays in one place for a long time, he becomes monotonous. 
 
 ### `Demographics`
 In the past, traveling was not easy. People had to travel long distances on foot or horseback. They also traveled in ships and horse-cart. At some places, people used bullock carts, camels, and elephants. In snow-covered countries, people used the sled. Then traveling even a short distance was much bothering and time-consuming.
