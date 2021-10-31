@@ -4,7 +4,7 @@ import useAuth from '../../hooks/useAuth';
 import useFirebase from '../../hooks/usefirebase';
 import './Login.css'
 const Login = () => {
-    const {signInusingGoogle} = useFirebase();
+    const {signInusingGoogle} = useAuth();
     return (
         <div>
             <div className="login-form text-white">

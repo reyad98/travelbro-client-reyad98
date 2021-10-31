@@ -1,28 +1,27 @@
-# Happy Doc Time
+# Travel Monday
 
-This site is about your photography [Learn With Cam](https://nostalgic-feynman-04ae5d.netlify.app/).
+This site is about your travel [Travel Monday](https://hospital-info-55fc1.web.app/home).
 
 
 
 ### `Defination`
 
-Hospital services is a term that refers to medical and surgical services and the supporting laboratories, equipment and personnel that make up the medical and surgical mission of a hospital or hospital system.
-
+To travel from one place to another for different purposes is generally called travelling. People do not travel always for the same purposes. Someone travels to gain knowledge and experience, someone travels for pleasure, someone travels for business purposes etc. It has much educative value.
 
 
 ### `Purpose`
-Hospital services make up the core of a hospital's offerings. They are often shaped by the needs or wishes of its major users to make the hospital a one-stop or core institution of its local commun ity or medical network. Hospitals are institutions comprising basic services and personnel—usually departments of medicine and surgery—that administer clinical and other services for specific diseases and conditions, as well as emergency services. Hospital services cover a range of medical offerings from basic health care necessities or training and research for major medical school centers to services designed by an industry-owned network of such institutions as health maintenance organizations (HMOs). The mix of services that a hospital may offer depends almost entirely upon its basic mission(s) or objective(s).
+t is a part of education. Our education and book knowledge remain imperfect without travelling. We can learn many things from travelling. It teaches us to trade and commerce, language, sociology, customs, culture, history, geography and so on. Therefore, the educative value of travelling beggars description. Besides this, there are some special benefits of travelling. If a man stays in one place for a long time, he becomes monotonous. 
 
 ### `Demographics`
+In the past, traveling was not easy. People had to travel long distances on foot or horseback. They also traveled in ships and horse-cart. At some places, people used bullock carts, camels, and elephants. In snow-covered countries, people used the sled. Then traveling even a short distance was much bothering and time-consuming.
 
-The total number of hospitals in the United States, including military and prison hospitals, is over 6,500. Of this total, approximately 3,000 are non-government-related nonprofit hospitals; almost 800 are investor-owned; and 1,156 are government (state, county, or local) hospitals.
 
 ### `Description`
-Over the past two decades, hospital services in the United States have declined markedly as a percentage of health care costs, from 43.5% in 1980 to 32.8% in 2000. This decline was due to shortened lengths of hospital stay, the move from inpatient to outpatient facilities for surgery, and a wave of hospital mergers in the 1990s that consolidated services and staff. Since 2001, however, spending on hospital care in the United States has been growing faster than other sectors of the economy as a result of increasing demand for hospital services.
+Travelling is, indeed, very pleasant. It is useful too. By traveling to new places we can know new people and learn many new things. Travelling opens new vistas of experience and understanding for us. When we go to a new place all of our senses and instincts  become awake , In such circumstances we can learn new things very easily. Everything seems beautiful and sterling at a new place. Purpose: People travels for different purposes. Some travel for getting an education and some travel for pleasure. Many people also travel for business and employment.
 
 ### `Preparation`
 
-Most hospitals have extensive surgical services that include preoperative testing, which may include x-rays, CT scans , ultrasonography, blood tests, urinalysis , and/or an EKG. Medication counseling is offered for current patient prescriptions and how they should be taken during and after surgery. Informed consent forms are made available to patients, as well as patient advocate services for questions and assistance in understanding the consent form and similar documents
+Travelling has manifold benefits. It is a part and parcel of our education. Our education and bookish knowledge remain imperfect without traveling. We may read about many places in our history books. If we can visit these places, the study of history becomes interesting. We read about men and things from different parts of the world. By traveling to different parts of the world, we see new people and new things. We can learn much about the manners and customs of those people. In this way, we can gain much knowledge. Consequently, our narrowness of mind disappears.
 
 
 

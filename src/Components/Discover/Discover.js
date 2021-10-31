@@ -5,16 +5,16 @@ const Discover = () => {
     return (
         <div>
             <div>
-            <h2>Discover Us More</h2>
+            <h2 className="denger">Discover Us </h2>
             </div>
             <div className="facebook">
                 <h2>Facebook</h2>
-                <h4>We have a facebook page.We engaged our patient buyer in facebook group.They can easily discussion any topic.We have online and offline course.</h4>
+                <h4>We have a facebook page.We engaged our tourist facebook group.They can easily discussion any topic.</h4>
                 <button className="buttnn">Facebook</button>
             </div>
             <div className="youtube">
                 <h2>Youtube</h2>
-                <h4>We have a Youtube channel.You can subscribe out channel for learn more.We have online and offline call service.</h4>
+                <h4>We have a Youtube channel.You can subscribe out channel for learn more.We upload our tour video in this channel</h4>
                 <button className="buttnn">Youtube</button>
             </div>
             <div className="mail">

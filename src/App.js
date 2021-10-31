@@ -18,13 +18,15 @@ import Myorders from './Components/Myorders/Myorders';
 import Manageall from './Components/ManageallOrder/Manageall';
 import AddServices from './Components/AddServices/AddServices';
 import MyorderHistory from './Components/MyorderHistory/MyorderHistory';
+import PrivateRoute from './Components/PrivateRoute/PrivateRoute';
 function App() {
   return (
     <div className="App bgm">
-      <Header></Header>
+     
 
       <Authprovider>
         <Router>
+        <Header></Header>
           <Switch>
             <Route exact path="/">
               <Large></Large>
@@ -36,9 +38,9 @@ function App() {
               <About></About>
             </Route>
 
-            <Route path="/myorders/:serviceId">
+            <PrivateRoute path="/myorders/:serviceId">
              <Myorders></Myorders>
-            </Route>
+            </PrivateRoute>
 
             <Route path="/myhistory">
               <MyorderHistory></MyorderHistory>

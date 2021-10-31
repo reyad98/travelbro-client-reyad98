@@ -5,11 +5,11 @@ const About = () => {
     return (
         <div className="us">
             <div className="head">
-                <h2>About Us</h2>
+                <h2 classname="text-white">About Us</h2>
             </div>
             <div className="about">
                 <h5>
-                Bangladesh has a large population and a wide healthcare delivery network to cater them. But the infrastructure is inefficient and sometime inadequate. The design and inherent integration of the different tiers of healthcare facilities are also inefficient. Moreover, doctors and healthcare facilities are not fairly distributed throughout the country. Modern and sophisticated services are limited to capital city or mostly 3 or 4 big cities. Ensuring equitable access to all healthcare services is a big challenge. Resources and efforts should be ensured to develop trained manpower and their capacity development. Hospitals face the challenges to provide services to chronically ill patients, geriatric and mental health patients, provide modern state of the art facilities equitably as well as handling overcrowding issues at District and Medical College Hospitals.
+                Travels makes you happy.Have you always wanted to document your travel stories and let the world know about them? Photos and videos on IG and other social media sites are the best platforms to share your tales but can you really cash big time out of it? Maybe you can if you try your hand in vlogging! Travel vlogging has become one of the big trends that are followed by many travelers who visit new places, explore the nuances of the destinations, and offer tips and tricks to help fellow travelers. So, if you are someone who would like to indulge in this and join the bandwagon of travel vloggers, perhaps a few tips could help you in the process! We have listed out a set of travel vlog tips for beginners that would surely give you a good idea of how to approach travel vlogging.
                 </h5>
             </div>
         </div>
